@@ -1,1 +1,36 @@
 /* Write your CSS here! */
+h1 {
+  margin: 130px;
+  padding: 50px;
+  border: 3px solid #4CAF50;
+}
+
+h2{
+  color: teal;
+}
+
+.center {
+  text-align: center;
+  color: brown;
+}
+
+#idSelect {
+  color: darkblue;
+}
+
+p {
+  margin: 8px;
+  display: block;
+}
+
+#mainHeading {
+  color: red;
+}
+
+#testP {
+  color: green;
+}
+
+.funParagraph {
+  color: green;
+}
